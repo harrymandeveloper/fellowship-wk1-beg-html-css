@@ -2,6 +2,8 @@
 
 Beginning Web Development: HTML & CSS
 
+---
+
 ## Day One
 
 You can find all the content for [day one here in this folder](day01) - including all the code for the lessons and all the links to all the presentations, plus further reading.
@@ -11,115 +13,51 @@ You can find all the content for [day one here in this folder](day01) - includin
 - Intro
 - Beginning HTML
 - Beginning CSS
-- HTML elements
+- HTML sectioning elements
 - CSS layout examples
+- HTML content elements
+- CSS styling properties
 
+---
 
+## Day Two
 
+You can find all the content for [day two here in this folder](day02) - including all the code for the lessons and all the links to all the presentations, plus further reading.
 
+#### Overview
 
+- Flexbox
+- CSS Positioning
+- What to expect from a design
+- Using Photoshop
+- Creating a homepage
 
-Day 2
+---
 
-Keyboard shortcut: CMD-C, CMD-V, CMD-X
+## Day Three
 
-End of PRE: HTML & CSS Beginnings
-Flexbox
-Go over homework
-Layout number 5 with flexbox
-Look at support - intro grid
-Talk about spec writing and w3c
-Layout number 5 with different positionings
-PRE: Design & Photoshop
-What to ask designers
-Assets
-Fonts
-Animations
-Interactions
-Files
-Other pages
-Photoshop
-Colour preferences
-Measurement preferences
-Eyedropper
-Marquee
-Transform?
-Copy out, paste new file
-Export for web
-Image formats
-Gif, png, jpg, svg
-Before lunch: CSS Colour Formats
-PRE: Homepage code
-More time on blueprint
-Portfolio code beginnings
-Start new file
-Create folder structure, new index.html, new css file
-Talk about reset.css, normalise.css and css order
-CSS order in file
-Html, body, default
-Layout (main partials)
-Generic (element styling)
-Specific
-Get more specific the further down your CSS file you go
-Get started on the portfolio design
-TALK: Rachel Andrew CSS Grid CSSConfEU
-HOMEWORK: Pseudo class and elements
+You can find all the content for [day three here in this folder](day03) - including all the code for the lessons and all the links to all the presentations, plus further reading.
 
-Day 3
+#### Overview
 
-Keyboard shortcut: CMD-C on line , CMD-V on line, CMD-X on line
+- Pseudo elements, classes and complex selectors
+- HTML form elements
+- CSS Sizing Units
 
-Psuedo elements, classes and complex selectors
-Forms (method, action)
-Fieldset
-Legend
-Text
-Password
-File
-Hidden
-Search
-Tel
-URL
-Datetime-local
-Date
-Month
-Range
-Textarea
-Select
-Submit
-Radio
-Colour
-Checkbox
-Go around class seeing how they are all doing
-Display inline demonstration
-Make notes on common things (this time: heights, tidy, css order, inspect, repeated styles, box-shadow)
-TALK: Alice Barlett: Burn your select tags
-CSS Sizing Units
-HOMEWORK: Tidy code, order of CSS, learnlayout is they want
+---
 
-Day 4
+## Day Four
 
-Keyboard shortcut: CMD-/ (comments)
+You can find all the content for [day four here in this folder](day04) - including all the code for the lessons and all the links to all the presentations, plus further reading.
 
-Metadata
-HTML5 Boilerplate - check always
-Find out what size of an Apple PNG is needed
-Fonts
-Find code for all formats
-Name of font to google so you don’t have to open photoshop
-Responsive design
-List of browsers - exponential with devices as well - site needs to work on all of these.
-Responsive/Adaptive
-How to make your site responsive (sizing etc...)
-Media queries
+#### Overview
 
+- Metadata & HTML5 Boilerplate
+- Fonts
+- Responsive Design
 
-Task: Make site responsive as per mobile design
-Accessibility
-TALK: Leonie Watson: Developer’s Guide to Accessibility Mechanics
-Carry on with task
-Make sure ftp client for tomorrow
-HOMEWORK: Different types of testing
+---
+
 
 
 Day 5

@@ -6,16 +6,16 @@
   - [Lesson 1](lesson01) : Basic sectioning elements & CSS box model
   - [Lesson 2](lesson02) : Centering elements
   - [Lesson 3](lesson03) : Floats and inline/block
-  - [Lesson 4](lesson04) : HTML contents elements
+  - [Lesson 4](lesson04) : HTML contents elements & CSS Design properties
 
 ## Keyboard shortcut of the day
 
-**CMD-tab / CTRL-tab** : Use the keyboard to navigate through applications
+**ALT-tab** : Use the keyboard to navigate through applications
 
 ## Talk of the day
 
-[]()
+[Jeremy Keith: Resilience](https://www.youtube.com/watch?v=W7wj7EDrSko)
 
 ## Homework
 
-[]()
+[Flexbox Froggy](http://flexboxfroggy.com/)
