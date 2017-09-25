@@ -16,50 +16,7 @@ You can find all the content for [day one here in this folder](day01) - includin
 
 
 
-Day 1
 
-Keyboard shortcut: CMD-Tab
-
-Personal Introduction
-Google Dev Expert - front end
-15 yrs industry
-Now freelance & teach
-Be nice and stickers
-Intro presentation
-What it means to be a developer
-Different types of roles
-Different types of companies
-PRE: HTML & CSS Beginnings
-HTML file: html, head, body
-parent child els
-Open close tags
-Document desciber
-Tim Berners-Lee, cerne, late 70’s
-HTML sectioning elements: Header, footer, article, aside, navigation, div, section
-Add some CSS
-Explain CSS
-Styles to elements
-External file
-First example, widths, heights, padding, margins.
-Second example: Get them to code by themselves and find centering - go over with them
-Third example
-Introduce different layouts: Float, overflow
-And `nav a` means inline and block
-LUNCH
-HTML content elements:
-p, b, i, strong, em, small, sup, sub, code, output, kbd, mark, ul, h1, blockquote, img, video, audio, input, label, form,
-Display types
-Fourth example
-Get them to code the html for the design
-Go over it with them
-Extra is the form
-TALK: Jeremy Keith Extensible Web Moz Berlin Nov 16
-CSS Design properties
-Backgrounds
-Borders
-Fonts, texts
-Box-shadow
-HOMEWORK: Flexbox Froggy
 
 
 Day 2

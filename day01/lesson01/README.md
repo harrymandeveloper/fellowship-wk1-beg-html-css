@@ -1,10 +1,10 @@
-# Lesson overview
+# Lesson 01: Sectioning Elements & Box Model
 
 - Create html file and outline code
 - Add content inside body
 - Remember open and close tags
 - Parent and child elements
-- Sectioning elements: header, main, footer, article, aside, div, section
+- Sectioning elements: header, main, footer, article, aside, nav, div, section
 - Add css - create file & link
 - Margin, padding, width, height -> box model
 
