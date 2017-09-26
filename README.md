@@ -6,7 +6,7 @@ Beginning Web Development: HTML & CSS
 
 ## Day One
 
-You can find all the content for [day one here in this folder](day01) - including all the code for the lessons and all the links to all the presentations, plus further reading.
+You can find all the content for [week one here in this folder](week01) - including all the code for the lessons and all the links to all the presentations, plus further reading.
 
 #### Overview
 
