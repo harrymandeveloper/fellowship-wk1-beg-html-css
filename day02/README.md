@@ -17,7 +17,7 @@
 
 ## Talk of the day
 
-[Rachel Andrew: CSS Grid](https://www.youtube.com/watch?v=tjHOLtouElA)
+
 
 ## Homework
 
