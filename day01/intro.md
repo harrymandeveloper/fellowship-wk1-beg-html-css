@@ -37,7 +37,7 @@
 	- Code reviews
 	- Tests & feedback
 	- Resources (AT THE END OF THE WEEK!)
-		- There will be a test & I am not giving the answers before then
+		- There will be a test & I am not giving you the answers before then
 		- I have done the exercises myself, they are all part of the resources. But you need to learn, copying and pasting what I have done is not going to help you do that.
 - To teach you how to keep on learning, because you will never stop. You should never stop.
 - To let you know this is hard work.
