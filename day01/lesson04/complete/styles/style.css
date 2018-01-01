@@ -1,0 +1,62 @@
+* {
+  vertical-align: top;
+}
+
+body {
+  font-family: sans-serif;
+  color:#aaa;
+}
+
+nav {
+  background-color: #ddd;
+  padding:20px;
+}
+
+nav a {
+  display: inline-block;
+  padding-right:20px;
+  color: blue;
+  text-decoration: none;
+}
+
+.active {
+  color: black;
+}
+
+
+
+#lesson-four {
+  /*overflow: auto;*/
+  /*background-color:purple;*/
+}
+
+article, img, .form-search {
+  display: inline-block;
+  /*float: left;*/
+  width: 25%;
+  box-sizing: border-box;
+  padding:20px;
+
+  border:1px solid red;
+}
+
+article {
+  width:50%;
+}
+
+.button {
+  display: inline-block;
+  padding:10px;
+
+  background-color: blue;
+  border: 1px solid blue;
+
+  color:white;
+  font-size: 100%;
+  text-decoration: none;
+}
+
+
+
+
+

@@ -2,7 +2,7 @@
 
 - Create html file and HTML code
 - Use CSS to style it
-- Remember CSS reset and order or properties
+- Remember CSS reset and order of properties
 
 ## Task
 
