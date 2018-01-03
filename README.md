@@ -21,20 +21,22 @@ You can find all the contents for [day one in the folder here](day01).
 - Overview of development
 - HTML sectioning elements
 - HTML content elements
+- HTML page structure
+- Practise by 'marking up' some mock content pages
 
 ---
 
 ## Day Two
 
-You can find all the content for [day two here in this folder](day02) - including all the code for the lessons and all the links to all the presentations, plus further reading.
+You can find all the content for [day two here in this folder](day02).
 
 #### Overview
 
-- Flexbox
-- CSS Positioning
-- What to expect from a design
-- Using Photoshop
-- Creating a homepage
+- CSS intro
+- CSS box model
+- CSS basic styling
+- CSS sizing units
+- CSS media queries
 
 ---
 
