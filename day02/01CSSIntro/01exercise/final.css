@@ -1,0 +1,21 @@
+.header-main, section {
+	background-color: lightgreen;
+}
+
+.header-main {
+	border-bottom: 2px solid grey;
+}
+
+footer {
+	border-top: 2px solid grey;
+}
+
+img {
+	border: 2px solid white;
+}
+
+.button {
+	background-image: linear-gradient(0deg, pink, white);
+	box-shadow: 1px 1px 1px 0px grey;
+	border-radius: 5px;
+}

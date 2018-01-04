@@ -1,0 +1,143 @@
+# CSS Box Model
+
+---
+
+## The Box Model
+
+---
+
+## Every HTML element has a default set of styles
+
+---
+
+## Let's have a look 👀
+
+Note:
+Dev tools intro
+
+---
+
+## One such style is the `display` property
+
+Common default `display` values are `block` & `inline
+Yesterday sectioning elements are block, text elements are inline
+
+---
+
+### What are media?
+### List item? |
+### A table |
+
+---
+
+## The spec is changing
+
+[https://developer.mozilla.org/en-US/docs/Web/CSS/display](https://developer.mozilla.org/en-US/docs/Web/CSS/display)
+
+---
+
+box diagram
+
+---
+
+### `display`
+
+- `inline`
+- `block`
+- `inline-block`
+
+---
+
+### Let's take a look at the nav
+
+Note:
+Display list items as display inline as demonstration, add margins and paddings. Note no width or height!
+
+---
+
+### Let's take a look at the images
+
+Note:
+Inline, then block, gaps, no gaps.
+
+---
+
+- `padding`, `margin`
+- `width`, (sometimes) `height` both `min-` & `max-`
+- `box-sizing`
+
+Note:
+Show some padding on the header and box-sizing
+
+---
+
+### Exercise
+
+- Take what you have, add a `.wrapper` div
+- Give it a width
+- Center it
+
+---
+
+### Googling
+
+- Totally cool
+- Check at least 3-4 results
+- Check data
+- Don't believe w3schools
+- Use Stack Overflow with caution
+
+---
+
+## Moving elements
+### Not for layout, for moving/transforming
+
+- `position`
+- `transform`
+
+Only moves element & contents, not surroundings
+
+---
+
+```
+position: static;
+position: relative;
+position: absolute;
+position: fixed;
+```
+
+---
+
+```
+transform: translate(10px,10px);
+transform: translateX(10px);
+transform: scale(x,y);
+transform: rotate(30deg) skewX(25deg);
+```
+
+Further reading:
+David DeSandro's transforms examples: [http://desandro.github.io/3dtransforms/](http://desandro.github.io/3dtransforms/)
+CSS Transforms on CSS Tricks: [https://css-tricks.com/almanac/properties/t/transform/](https://css-tricks.com/almanac/properties/t/transform/)
+
+---
+
+### Exercise
+
+- Make your page look like the picture with the things you have learnt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
