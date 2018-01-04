@@ -31,7 +31,7 @@
 
 ## A closer look
 
-`<html lamg="en">`
+`<html lang="en">`
 
 - open angle bracket |
 - element |
@@ -42,6 +42,9 @@
 - more attributes? |
 - close angle bracket |
 - content |
+
+---
+
 - open angle bracket |
 - forward slash |
 - element |
@@ -71,7 +74,10 @@
 
 DEMO
 
+Let's look around Sublime...
+
 Note:
+Look around Sublime
 Start a basic html file with the whole class
 
 ---
@@ -116,7 +122,8 @@ div: generic container for flow content. It has no effect on the content or layo
 - `<a>` needs `href` attr
 - `<blockquote>`, `<q>` should have a `cite` attr
 - `<details`, `<summary>`
-- `<img>` needs a `src` *and* an `alta attr
+- `<img>` needs a `src` *and* an `alt` attr
+- `<button>`
 
 ---
 
@@ -133,6 +140,7 @@ div: generic container for flow content. It has no effect on the content or layo
 </article>
 ```
 
+---
 
 ## Your turn
 
