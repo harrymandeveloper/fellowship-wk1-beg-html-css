@@ -1,46 +1,59 @@
-# CSS Sizing Units
+# Design & Photoshop
 
 ---
 
-### Used as value
+## Design & Brief
 
-Anything that requires a size
-
-Heights, widths, padding, margins, media, borders, background size...
+### What to think about & ask
 
 ---
 
-### Pixels
-
-Screens work in pixels: 1px = 1 screen pixel
-(Not quite with retina screens but workaround)
-
-`margin: 10px;`
-
-ABSOLUTE / FIXED
+![Image of the homepage design](homepage.jpg)
 
 ---
 
-### Percentage
+### Design handover
 
-Percentage of container
-NB always a width, maybe not height as height is set by content
-
-`div {width: 50%;}`
-
-RESPONDS
+- Artwork file
+- Responsive designs
+- Fonts
+- Other assets (images, icons) - can export from artwork yourself
+- Media (videos, audio)
+- Animations, interactivity (hovers)
 
 ---
 
-### em
+### What to expect
 
-Font measurement - relative to parent
+Lots of designs
 
-```css
-body {font-size: 16px;} /* default */
-p {font-size: 1.2em;} /* 16 x 1.2 */
-p a {font-size: 1.2em;} /* 16 x 1.2 x 1.2 */
-```
+- Home
+- Standard page: About
+- Contact page
+- Article list page: news
+- Individual article page
+
+---
+
+### Different program files
+
+- Photoshop (PSD)
+	Will have layers to turn on and off access different elements separately.
+- InDesign (INDD)
+	Vector files, layers, copy text, find fonts. May include source images (links) and fonts too.
+- Sketch (not Adobe, mac only)
+	Super good at website & app. Vector based.
+
+---
+
+### Flat files ok...
+
+- PDFs
+	Good, vector-based, usually not lossy compression, often can copy text.
+- PNGs
+	Lossless.
+- JPGs
+	Lossy compression, difficult to get clean image from. Potentially different ‘colourspace’.
 
 ---
 
@@ -55,29 +68,85 @@ p a {font-size: 1.2rem;}
 ```
 ---
 
-### Viewport
-
-1vw = 1% of viewport width
-1vh = 1% of viewport height
-1vmin = 1vw or 1vh, whichever is smaller
-1vmax = 1vw or 1vh, whichever is larger
-
-`section {height: 100vh;}`
-
-RESPONDS
+## Photoshop
 
 ---
 
-### Others
+Let's open it and get it set up!
 
-ex - height of ‘x’
-ch - width of ‘0’
-lh - equal to the line-height
-pt - 1/72“
-mm - mm
-cm - cm
+- Crop and re-size - e.g. 1200 width
+- Check Image > Mode > “RGB” & “8 Bits/channel”
+- Preference units
+- Rulers
 
 ---
+
+### RGB vs CMYK
+
+Images can have different colour space
+
+Print uses CMYK (4 colour process), but screens have RGB (3 colour pixels)
+
+Use of CMYK images on web can display weirdly Design files can often be set to CMYK, so check!
+
+---
+
+### Open file & tools
+
+- Layers
+- Eyedropper
+- Marquee
+- Create new image from part of design
+
+---
+
+## Image types
+
+---
+
+### Bitmap
+
+- png
+	Has transparency, good compression, can be big
+- jpg
+	No transparency but smaller than png
+- tiff
+	No place on the web really
+- gif
+	Transparency, animation, small file size, incredibly big file size
+
+---
+
+### Vector based
+
+- svg
+
+Scalable (and actually code!)
+
+---
+
+## Planning layout
+
+---
+
+### Create a blueprint
+
+Sketch out and annotate, note dimensions, colours, repeated styles, fonts, naming for classes later.
+
+Use:
+- Paper & pen (a lot!)
+- Whiteboard
+- Photoshop
+---
+
+![Photo of a blueprint](blueprint.png)
+
+
+
+
+
+
+
 
 
 
