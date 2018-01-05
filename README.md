@@ -26,45 +26,44 @@ You can find all the contents for [day one in the folder here](day01).
 
 ---
 
-## Day Two
+### Day Two
 
 You can find all the content for [day two here in this folder](day02).
 
 #### Overview
 
 - CSS intro
-- CSS box model
 - CSS basic styling
+- CSS colours
+- CSS box model
 - CSS sizing units
 - CSS media queries
 
 ---
 
-## Day Three
+### Day Three
 
 You can find all the content for [day three here in this folder](day03) - including all the code for the lessons and all the links to all the presentations, plus further reading.
 
 #### Overview
 
-- Pseudo elements, classes and complex selectors
+- Design and photoshop
 - HTML form elements
-- CSS Sizing Units
+- CSS Flexbox
 
 ---
 
-## Day Four
+### Day Four
 
 You can find all the content for [day four here in this folder](day04) - including all the code for the lessons and all the links to all the presentations, plus further reading.
 
 #### Overview
 
-- Metadata & HTML5 Boilerplate
 - Fonts
-- Responsive Design
 
 ---
 
-## Day Five
+### Day Five
 
 You can find all the content for [day five here in this folder](day05) - including all the code for the lessons and all the links to all the presentations, plus further reading.
 
@@ -74,8 +73,11 @@ You can find all the content for [day five here in this folder](day05) - includi
 - Quiz
 - Carry on with page
 
+---
 
+### Extra task
 
+Should you finish the homepage completely, there's another design [to be found here](ExtraTask)
 
-Weeks extra task for the fast ones https://codepen.io/JaguarDev/pen/BooXJw
+Do it first, but you [can check the code here](https://codepen.io/JaguarDev/pen/BooXJw)
 

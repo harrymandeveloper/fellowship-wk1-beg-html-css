@@ -1,12 +1,57 @@
-# Day Three Contents
+# DevMe_ Fellowship Day One
+## HTML Fundementals
 
-- Psuedo elements, psuedo classes and complex selectors
-  - [Lesson 8](lesson08) : CSS Complex Selectors
-- HTML Form elements
-  - [Lesson 9](lesson09) : HTML Forms
-- Carry on with homepage markup and styling
-- _Presentation_ [CSS Sizing Units](https://docs.google.com/presentation/d/1vox2WTiGLu8tOXwtNJ1Js0ndd3oJaUC1MLsARYRR6jU/edit#slide=id.p)
-  
+---
+
+### Design & Photoshop
+
+#### Presentation
+
+[The presentation can be found here](https://gitpitch.com/develop-me/fellowship-wk1-beg-html-css/newSyl?p=day03/01DesignPhotoshop#/).
+
+#### Exercises
+
+1. > Get the colours and any other relevant info from the photoshop file ready for coding the homepage
+
+#### Photoshop notes
+
+[There's some notes on the tools we use in Photoshop here](photoshopNotes)
+
+---
+
+### Week project
+
+#### Presentation
+
+[The presentation can be found here](https://gitpitch.com/develop-me/fellowship-wk1-beg-html-css/newSyl?p=day03/02Project).
+
+---
+
+### HTML Forms
+
+<!-- #### Presentation
+
+[The presentation can be found here](https://gitpitch.com/develop-me/fellowship-wk1-beg-html-css/newSyl?p=day02/03CSSboxModel#/). -->
+
+#### Exercises
+
+1. > Mark up the form on the design
+
+---
+
+### CSS Flexbox
+
+<!-- #### Presentation
+
+[The presentation can be found here](https://gitpitch.com/develop-me/fellowship-wk1-beg-html-css/newSyl?p=day02/03CSSSizing#/). -->
+
+#### Exercises
+
+1. > Use flexbox when styling your homepage design
+
+---
+
+
 ## Keyboard shortcut of the day
 
 **CMD-C / CTRL-C on line nothing selected** : Copy line
@@ -19,6 +64,7 @@
 
 ## Homework
 
-- Tidy all code
-- Check order of CSS
-- [CSS learn layout](http://learnlayout.com/)
+[Flexbox Froggy](http://flexboxfroggy.com/)
+
+
+

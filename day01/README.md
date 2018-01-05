@@ -58,4 +58,5 @@
 
 ## Homework
 
-[Flexbox Froggy](http://flexboxfroggy.com/)
+- Go over everything.
+- Use dev tools to tell me some styles tomorrow morning
