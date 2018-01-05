@@ -1,4 +1,4 @@
-#CSS
+# CSS
 
 ---
 
@@ -6,7 +6,7 @@
 
 ---
 
-####Style
+#### Style
 our page
 
 ---
@@ -87,7 +87,7 @@ p {
 
 ### `background` is shorthand
 
-```
+```css
 background: transparent url('myimage.png') no-repeat top left;
 
 background-color: transparent;
@@ -98,7 +98,7 @@ background-position: top left;
 
 ---
 
-```
+```css
 \* scrolling *\
 background-attachment: scroll;
 
@@ -121,7 +121,7 @@ background-clip: padding-box;
 
 You can have a gradient as a background image
 
-```
+```css
 background-image: linear-gradient(0deg, yellowgreen, palegreen);
 ```
 
@@ -190,8 +190,6 @@ border-radius: 5px 0px 30px;
 	background-color: lightgreen;
 }
 ```
-
----
 
 ---
 

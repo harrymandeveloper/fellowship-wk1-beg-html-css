@@ -17,16 +17,17 @@ Dev tools intro
 
 ---
 
-## One such style is the `display` property
+One such style is the `display` property
 
-Common default `display` values are `block` & `inline
-Yesterday sectioning elements are block, text elements are inline
+Common default `display` values are `block` & `inline`
+
+Yesterday: Sectioning elements are block, text elements are inline
 
 ---
 
 ### What are media?
-### List item? |
-### A table |
+### List item?
+### A table
 
 ---
 
@@ -36,15 +37,15 @@ Yesterday sectioning elements are block, text elements are inline
 
 ---
 
-box diagram
+![box model diagram](boxmodal.png)
 
 ---
 
 ### `display`
 
-- `inline`
-- `block`
-- `inline-block`
+- `inline` |
+- `block` |
+- `inline-block` |
 
 ---
 
@@ -62,8 +63,11 @@ Inline, then block, gaps, no gaps.
 
 ---
 
-- `padding`, `margin`
-- `width`, (sometimes) `height` both `min-` & `max-`
+- `padding`
+- `margin`
+- `width`
+- (sometimes) `height`
+- both `min-` & `max-`
 - `box-sizing`
 
 Note:
@@ -73,7 +77,7 @@ Show some padding on the header and box-sizing
 
 ### Exercise
 
-- Take what you have, add a `.wrapper` div
+- Take what you have, add a `.wrapper` div inside the `<body>` element
 - Give it a width
 - Center it
 
@@ -83,21 +87,24 @@ Show some padding on the header and box-sizing
 
 - Totally cool
 - Check at least 3-4 results
-- Check data
+- Check date
 - Don't believe w3schools
 - Use Stack Overflow with caution
 
 ---
 
 ## Moving elements
-### Not for layout, for moving/transforming
 
 - `position`
 - `transform`
 
+Not for layout, for moving/transforming
+
 Only moves element & contents, not surroundings
 
 ---
+
+### position
 
 ```
 position: static;
@@ -107,6 +114,8 @@ position: fixed;
 ```
 
 ---
+
+### transform
 
 ```
 transform: translate(10px,10px);
@@ -125,7 +134,60 @@ CSS Transforms on CSS Tricks: [https://css-tricks.com/almanac/properties/t/trans
 
 - Make your page look like the picture with the things you have learnt
 
+---
 
+## One more thing
+
+---
+
+### Floats
+
+```css
+header h1, header nav {
+	float: left;
+}
+```
+
+---
+
+### Let's see what happens...
+
+---
+
+Floating elements make them jump out of the block scope.
+
+Their containing elements can't see them anymore.
+
+We can get around this...
+
+---
+
+Give the containing (parent) element a *Block Formatting Context*
+
+This happens when
+
+- is floated
+- is positioned absolute
+- is displayed inline-block
+- has an overflow property
+- has a value other than visible
+
+---
+
+### Floats
+
+```css
+header {}
+
+header h1, header nav {
+	float: left;
+}
+```
+---
+
+### Let's do this
+
+---
 
 
 
