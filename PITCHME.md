@@ -41,8 +41,11 @@ Wash up after yourself. Be mindful there are 15 people using one bathroom. There
 
 ## What I expect from you
 
-- To have done your prep
-- To be familiar with your computer
+- To have done your prep |
+- To be familiar with your computer |
+- To know your folders & files and... |
+- NEVER PUT A SPACE IN A FILE OR FOLDER NAME |
+- NEVER USE SPACES WHEN NAMING ANYTHING EVER
 
 Note:
 You should be able to use your terminal and be familiar with your computers file system. I sent an email and I expect everything to have been done.
