@@ -1,12 +1,52 @@
-# Day One Contents
+# DevMe_ Fellowship Day One
+## HTML Fundementals
 
-- Introductions
-- _Presentation_ [Introduction](https://docs.google.com/presentation/d/1ZUnqTDEzqMa5_vFnR7ooEyCPxyUcsXp3jSxDwOjQ8vo/edit#slide=id.p)
-- _Presentation_ [HTML & CSS: The Beginnings](https://docs.google.com/presentation/d/13drxL9J9A4n6RQdyRpMFuJRaANmPFBOcdjzNqzjGMgM/edit#slide=id.p)
-  - [Lesson 1](lesson01) : Basic sectioning elements & CSS box model
-  - [Lesson 2](lesson02) : Centering elements
-  - [Lesson 3](lesson03) : Floats and inline/block
-  - [Lesson 4](lesson04) : HTML contents elements & CSS Design properties
+---
+
+### Basic HTML
+
+#### Presentation
+
+[The presentation can be found here](https://gitpitch.com/develop-me/fellowship-wk1-beg-html-css?p=day01/01basicHTML).
+
+#### Exercises
+
+1. > Mark up the given HTML picture using the elements you have learnt
+	- (Lesson files here)[01basicHTML/01exercise]
+2. > Again mark up the given HTML picture using the elements you have learnt
+	- (Lesson files here)[01basicHTML/02exercise]
+3. > One last one!
+	- (Lesson files here)[01basicHTML/03exercise]
+
+---
+
+### More HTML
+
+#### Presentation
+
+[The presentation can be found here](https://gitpitch.com/develop-me/fellowship-wk1-beg-html-css?p=day01/02moreHTML).
+
+#### Exercises
+
+1. > Mark up the given HTML picture using the elements you have learnt
+	- (Lesson files here)[02moreHTML/01exercise]
+2. > Again mark up the given HTML picture using the elements you have learnt
+	- (Lesson files here)[02moreHTML/02exercise]
+
+---
+
+### Metadata
+
+#### Presentation
+
+[The presentation can be found here](https://gitpitch.com/develop-me/fellowship-wk1-beg-html-css?p=day01/metadata).
+
+#### Exercises
+
+1. > Go through everything you've done and add the correct metadata
+	- (HTML5 Boilerplate is here)[https://github.com/h5bp/html5-boilerplate/blob/master/src/index.html]
+
+---
 
 ## Keyboard shortcut of the day
 

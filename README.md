@@ -1,36 +1,42 @@
-# DevelopMe_ Coding Fellowship Week One Materials
+## DevelopMe_ Coding Fellowship Week One:
+# HTML & CSS Fundamentals
 
-Beginning Web Development: HTML & CSS
+Welcome to DevelopMe_ Coding Fellowships first week. Here you will find all the class resources, presentations, lessons, exercises, talks and further reading from everything we cover within the first two weeks of the course.
+
+This is a living breathing syllabus, which means it is changed and updated regularly to reflect the web industry.
+
+> If you are looking for a specific version of this syllabus, say you were on fellowship number eight for instance, check out the _versions_ for the repo. There's one to reflect every cohort.
 
 ---
 
-## Day One
+## Week contents
 
-You can find all the content for [week one here in this folder](week01) - including all the code for the lessons and all the links to all the presentations, plus further reading.
+### Day One
+
+You can find all the contents for [day one in the folder here](day01).
 
 #### Overview
 
 - Intro
-- Beginning HTML
-- Beginning CSS
+- Overview of development
 - HTML sectioning elements
-- CSS layout examples
 - HTML content elements
-- CSS styling properties
+- HTML page structure
+- Practise by 'marking up' some mock content pages
 
 ---
 
 ## Day Two
 
-You can find all the content for [day two here in this folder](day02) - including all the code for the lessons and all the links to all the presentations, plus further reading.
+You can find all the content for [day two here in this folder](day02).
 
 #### Overview
 
-- Flexbox
-- CSS Positioning
-- What to expect from a design
-- Using Photoshop
-- Creating a homepage
+- CSS intro
+- CSS box model
+- CSS basic styling
+- CSS sizing units
+- CSS media queries
 
 ---
 
