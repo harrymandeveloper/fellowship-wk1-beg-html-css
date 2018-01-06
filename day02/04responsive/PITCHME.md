@@ -2,7 +2,7 @@
 
 ---
 
-![Lots and lots of devices](devices.png)
+![Lots and lots of devices](day02/04responsive/devices.png)
 
 ---
 
