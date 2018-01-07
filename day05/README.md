@@ -13,7 +13,7 @@
 
 1. > Upload your files to ftp
 2. > Test your site
-	- [The links are here](README.md)
+	- [The links are here](https://github.com/develop-me/fellowship-wk1-beg-html-css/blob/master/day05/01TestingAndPerformance/README.md)
 
 ---
 
