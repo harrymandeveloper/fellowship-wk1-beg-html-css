@@ -11,12 +11,12 @@
 
 ### Cross browser & cross device
 
-- testing on different browsers & devices
+- Testing on different browsers & devices
 - Browser testing tools
-	- [https://www.browserstack.com/](https://www.browserstack.com/)
-	- [https://crossbrowsertesting.com/pricing](https://crossbrowsertesting.com/pricing)
-	- [https://www.browserling.com/](https://www.browserling.com/)
-	- Dev tools
+	- [https://www.browserstack.com/](https://www.browserstack.com/) |
+	- [https://crossbrowsertesting.com/pricing](https://crossbrowsertesting.com/pricing) |
+	- [https://www.browserling.com/](https://www.browserling.com/) |
+	- Dev tools |
 
 ---
 
@@ -82,11 +82,17 @@ Note: There are many many techniques to do with performance - you will learn a l
 
 ### Real life testing
 
-![App design](day02/04responsive/app.png)
+![App design](day05/01TestingAndPerformance/app.png)
 
 ---
 
-![App on tablet](day02/04responsive/appTab.png)
+![App on tablet](day05/01TestingAndPerformance/appTab.png)
+
+---
+
+### All the links
+
+[Are here 🤓](https://github.com/develop-me/fellowship-wk1-beg-html-css/blob/master/day05/01TestingAndPerformance/README.md)
 
 
 

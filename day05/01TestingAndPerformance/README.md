@@ -4,7 +4,7 @@
 
 ### Cross browser & cross device
 
-- testing on different browsers & devices
+- Testing on different browsers & devices
 - Browser testing tools
 	- [https://www.browserstack.com/](https://www.browserstack.com/)
 	- [https://crossbrowsertesting.com/pricing](https://crossbrowsertesting.com/pricing)
