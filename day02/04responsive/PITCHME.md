@@ -34,13 +34,13 @@ I'm sure you seen 'mobile' sites - this is adaptive. We'll be looking into respo
 
 ---
 
-<video src="guardian.mp4"></video>
+<video src="day02/04responsive/guardian.mp4"></video>
 
 ---
 
 ### How?
 
-- Use responsive not absolute CSS units
+- Use relative not absolute CSS units
 - CSS Media Queries |
 - JavaScript feature and device detection |
 - Speedtesting is hard |

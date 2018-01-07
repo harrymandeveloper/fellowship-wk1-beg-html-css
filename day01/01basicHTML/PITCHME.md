@@ -4,10 +4,10 @@
 
 ## HTML is a data structure
 
-- Hypertext Markup Language (sometimes referred to as just 'markup' or 'marking something up')
-- Based on XML
-- Gives the browser (environment) data (information)
-- Content layer
+- Hypertext Markup Language (sometimes referred to as just 'markup' or 'marking something up') |
+- Based on XML |
+- Gives the browser (environment) data (information) |
+- Content layer |
 	- CSS: Style layer
 	- JavaScript: Interaction layer
 
@@ -93,7 +93,9 @@ I'm not going to teach them all to you - I'm going to go over the ones you are g
 
 ## Why is it important?
 
-You're describing content. The browser does magic things!
+You're describing content.
+
+The browser does magic things!
 
 Note:
 We'll go over this in more detail later, but suffice to say there's loads of benefits to using the right element for the right content.

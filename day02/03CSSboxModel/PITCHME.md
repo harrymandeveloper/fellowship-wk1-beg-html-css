@@ -37,7 +37,7 @@ Yesterday: Sectioning elements are block, text elements are inline
 
 ---
 
-![box model diagram](boxmodal.png)
+![box model diagram](day02/03CSSboxModel/boxmodel.png)
 
 ---
 

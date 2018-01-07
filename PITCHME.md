@@ -45,7 +45,7 @@ Wash up after yourself. Be mindful there are 15 people using one bathroom. There
 - To be familiar with your computer |
 - To know your folders & files and... |
 - NEVER PUT A SPACE IN A FILE OR FOLDER NAME |
-- NEVER USE SPACES WHEN NAMING ANYTHING EVER
+- NEVER USE SPACES WHEN NAMING ANYTHING EVER |
 
 Note:
 You should be able to use your terminal and be familiar with your computers file system. I sent an email and I expect everything to have been done.
@@ -69,8 +69,8 @@ Every computer is different. I don't know where you keep your files, please don'
 ## What I expect from you
 
 - To be ready to install the following
-	- [Photoshop](http://www.adobe.com/uk/products/photoshop.html)
-	- [Balsamic](https://balsamiq.com/)
+	- [Photoshop](http://www.adobe.com/uk/products/photoshop.html) |
+	- [Balsamic](https://balsamiq.com/) |
 
 ---
 
@@ -92,8 +92,8 @@ Now I know you all have lives, but what you put into this course you get out
 - To teach you how to HTML & CSS at an industry standard |
 	- Code reviews |
 	- Tests & feedback |
-	- Resources **(at the end of the week!)** |
-- To teach you how to keep on learning, because you will never stop. You should never stop |
+	- Resources (at the end of the week!) |
+- To teach you how to keep on learning, because you will never stop |
 - To let you know this is hard work |
 - I don't know everything about everything |
 
@@ -172,9 +172,13 @@ We are focusing on Front End Dev...
 
 - We are going to nail HTML & CSS |
 - Lots of practice exercises |
-- Individually on *your* machine |
+- Individually on your machine |
 - Tools: Code editor (Sublime), browser (Chrome AND Firefox), Photoshop, pen & paper |
 - Project: Take a design and make it into a webpage |
+
+---
+
+## Let's go!
 
 
 

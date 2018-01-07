@@ -11,6 +11,8 @@ This is a living breathing syllabus, which means it is changed and updated regul
 
 ## Week contents
 
+[The introduction presentation can be found here](https://gitpitch.com/develop-me/fellowship-wk1-beg-html-css)
+
 ### Day One
 
 You can find all the contents for [day one in the folder here](day01).
@@ -43,35 +45,36 @@ You can find all the content for [day two here in this folder](day02).
 
 ### Day Three
 
-You can find all the content for [day three here in this folder](day03) - including all the code for the lessons and all the links to all the presentations, plus further reading.
+You can find all the content for [day three here in this folder](day03)
 
 #### Overview
 
 - Design and photoshop
+- Week project: Making a homepage
 - HTML form elements
-- CSS Flexbox
 
 ---
 
 ### Day Four
 
-You can find all the content for [day four here in this folder](day04) - including all the code for the lessons and all the links to all the presentations, plus further reading.
+You can find all the content for [day four here in this folder](day04)
 
 #### Overview
 
-- Fonts
+- Flexbox
+- Webfonts
 
 ---
 
 ### Day Five
 
-You can find all the content for [day five here in this folder](day05) - including all the code for the lessons and all the links to all the presentations, plus further reading.
+You can find all the content for [day five here in this folder](day05)
 
 #### Overview
 
-- Testing
+- Uploading your code
+- Testing & performance
 - Quiz
-- Carry on with page
 
 ---
 

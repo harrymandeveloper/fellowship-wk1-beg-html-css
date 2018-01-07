@@ -1,10 +1,27 @@
-# Day Five Contents
+# DevMe_ Fellowship Day Five
+## Testing
 
-- Testing
-  - _Presentation_ [Testing](https://docs.google.com/presentation/d/1cY9bV_aZviK6qV0h0YX0RdY_0xusApwVGgNmcdvQAr4/edit#slide=id.p)
-- Performance
-  - _Presentation_ [Performance](https://docs.google.com/presentation/d/1TxIAXUMQ0pI6Orr9hmx8hTsa1AbDopCpl8l9rznWtmM/edit#slide=id.p)
-  
+---
+
+### Testing and performance
+
+#### Presentation
+
+[The presentation can be found here](https://gitpitch.com/develop-me/fellowship-wk1-beg-html-css?p=day04/01CSSFlexbox).
+
+#### Exercises
+
+1. > Upload your files to ftp
+2. > Test your site
+	- [The links are here](README.md)
+
+---
+
+### Weekly Quiz
+
+[The quiz can be found here](https://goo.gl/forms/5HU9aFR4X218x3uT2).
+
+---
 
 ## Talk of the day
 
