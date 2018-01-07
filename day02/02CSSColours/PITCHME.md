@@ -15,6 +15,7 @@ https://en.wikipedia.org/wiki/X11_color_names
 ### Hex
 
 3 bit hexidecimal format
+
 Each single or pair represent R G or B channel
 
 - `#000`
@@ -44,6 +45,7 @@ Same as rgb but with alpha (opacity/transparency) channel
 ### hsl
 
 Like rgb, but each value represents *hue*, *saturation* and *lightness* rather than a colour channel
+
 Hue on the colour wheel 0-360 Saturation & lightness percentage
 
 - `hsl(100, 50%, 50%)`

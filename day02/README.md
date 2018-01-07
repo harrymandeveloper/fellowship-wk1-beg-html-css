@@ -1,5 +1,5 @@
-# DevMe_ Fellowship Day One
-## HTML Fundementals
+# DevMe_ Fellowship Day Two
+## CSS Fundamentals
 
 ---
 
@@ -7,12 +7,12 @@
 
 #### Presentation
 
-[The presentation can be found here](https://gitpitch.com/develop-me/fellowship-wk1-beg-html-css/newSyl?p=day02/01CSSIntro#/).
+[The presentation can be found here](https://gitpitch.com/develop-me/fellowship-wk1-beg-html-css?p=day02/01CSSIntro).
 
 #### Exercises
 
 1. > Use the styles you have learnt to make your first html exercise look like the image
-	- (Lesson files here)[01CSSIntro/01exercise]
+	- [Lesson files here](01CSSIntro/01exercise)
 
 ---
 
@@ -20,7 +20,7 @@
 
 #### Presentation
 
-[The presentation can be found here](https://gitpitch.com/develop-me/fellowship-wk1-beg-html-css/newSyl?p=day02/02CSSColours).
+[The presentation can be found here](https://gitpitch.com/develop-me/fellowship-wk1-beg-html-css?p=day02/02CSSColours).
 
 ---
 
@@ -33,15 +33,7 @@
 #### Exercises
 
 1. > Make your page look like the picture with the things you have learnt
-	- (Lesson files here)[03CSSboxModel/01exercise]
-
----
-
-### CSS Sizing Units
-
-#### Presentation
-
-[The presentation can be found here](https://gitpitch.com/develop-me/fellowship-wk1-beg-html-css/newSyl?p=day02/03CSSSizing#/).
+	- [Lesson files here](03CSSboxModel/01exercise)
 
 ---
 
@@ -49,12 +41,20 @@
 
 #### Presentation
 
-[The presentation can be found here](https://gitpitch.com/develop-me/fellowship-wk1-beg-html-css?p=day02/responsive).
+[The presentation can be found here](https://gitpitch.com/develop-me/fellowship-wk1-beg-html-css?p=day02/responsive)
 
 #### Exercises
 
-1. > Go through everything you've done and add the correct metadata
-	- (HTML5 Boilerplate is here)[https://github.com/h5bp/html5-boilerplate/blob/master/src/index.html]
+1. > Make your page look like the mobile design
+	- [Lesson files here](04responsive/01exercise)
+
+---
+
+### CSS Sizing Units
+
+#### Presentation
+
+[The presentation can be found here](https://gitpitch.com/develop-me/fellowship-wk1-beg-html-cssp=day02/05CSSSizing)
 
 ---
 

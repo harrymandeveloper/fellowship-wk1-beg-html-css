@@ -2,16 +2,18 @@
 
 ---
 
-### Cascading Style Sheets
+## Cascading Style Sheets
 
 ---
 
-#### Style
+## Style
 our page
 
 ---
 
-Select the HTML element we want to style, in a variety of ways, and add defined properties.
+- Select the HTML element we want to style
+- In a variety of ways |
+- And add defined properties |
 
 ---
 

@@ -1,24 +1,43 @@
-# Day Four Contents
+# DevMe_ Fellowship Day Four
+## Getting on with the project
 
-- Metadata
-  - _Presentation_ [HTML Metadata](https://docs.google.com/presentation/d/1kijesUTcxJYhxxwXQMatyT9ddSVHgcal7Ph_G4cKQRE/edit#slide=id.p)
-- Fonts
-  - _Presentation_ [Web Fonts](https://docs.google.com/presentation/d/1LJ-x_fD-ncWPR4lrqKCkgi7wVdB0arpJSaSLLvV636A/edit#slide=id.p)
-- Responsive Design
-  - _Presentation_ [Responsive Design](https://docs.google.com/presentation/d/1VDHTki-ZyPP7VfpezJrvWYJr41_H_gv7QlT5eh0GC6s/edit)
-  - [Lesson 10](lesson10) : Responsive Design & Media Queries
-- Accessibility
-  - _Presentation_ [Accessibility](https://docs.google.com/presentation/d/15lPz7BUiL8Y_dJGHtGFgEi4BEaUE5UzdHATKeHIpg4g/edit#slide=id.p)
-  
+---
+
+### CSS Flexbox
+
+<!-- #### Presentation -->
+
+<!-- [The presentation can be found here](https://gitpitch.com/develop-me/fellowship-wk1-beg-html-css?p=day04/01CSSFlexbox). -->
+
+#### Exercises
+
+1. > Use what you have learnt to style the thumbnails on the design
+	- [Lesson files here](01CSSFlexbox/01exercise)
+
+---
+
+### Web Fonts
+
+#### Presentation
+
+[The presentation can be found here](https://gitpitch.com/develop-me/fellowship-wk1-beg-html-css?p=day02/02CSSColours).
+
+---
+
 ## Keyboard shortcut of the day
 
 **CMD-/ / CTRL-/** : Make comment
 
 ## Talk of the day
 
-[Leonie Watson: Accessiblity Mechanics](https://www.youtube.com/watch?v=qi0tY60Hd6M)
+[Web typography & performance: Helen Holmes](https://www.youtube.com/watch?v=emLfXChvVPQ)
+
 
 ## Homework
 
-Find out about different types of testing
+You have a code review tomorrow!
+
+Make sure your code is ready :)
+
+We're also testing, so have a read about 'testing'
 

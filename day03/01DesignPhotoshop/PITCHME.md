@@ -8,7 +8,11 @@
 
 ---
 
-![Image of the homepage design](homepage.jpg)
+![Image of the homepage design](day03/01DesignPhotoshop/homepage.jpg)
+
+---
+
+## What should you ask for?
 
 ---
 
@@ -38,11 +42,11 @@ Lots of designs
 ### Different program files
 
 - Photoshop (PSD)
-	Will have layers to turn on and off access different elements separately.
+		Will have layers to turn on and off access different elements separately.
 - InDesign (INDD)
-	Vector files, layers, copy text, find fonts. May include source images (links) and fonts too.
+		Vector files, layers, copy text, fonts. May include source images (links).
 - Sketch (not Adobe, mac only)
-	Super good at website & app. Vector based.
+		Super good at website & app. Vector based.
 
 ---
 
@@ -55,17 +59,6 @@ Lots of designs
 - JPGs
 	Lossy compression, difficult to get clean image from. Potentially different ‘colourspace’.
 
----
-
-### rem
-
-Like em but always relative to `root`
-
-```css
-body {font-size: 1em;}
-p {font-size: 1.2rem;}
-p a {font-size: 1.2rem;}
-```
 ---
 
 ## Photoshop
@@ -93,10 +86,10 @@ Use of CMYK images on web can display weirdly Design files can often be set to C
 
 ### Open file & tools
 
-- Layers
-- Eyedropper
-- Marquee
-- Create new image from part of design
+- Layers |
+- Eyedropper |
+- Marquee |
+- Create new image from part of design |
 
 ---
 
@@ -104,7 +97,7 @@ Use of CMYK images on web can display weirdly Design files can often be set to C
 
 ---
 
-### Bitmap
+### Raster (Bitmap)
 
 - png
 	Has transparency, good compression, can be big
@@ -139,7 +132,7 @@ Use:
 - Photoshop
 ---
 
-![Photo of a blueprint](blueprint.png)
+![Photo of a blueprint](day03/01DesignPhotoshop/blueprint.png)
 
 
 
