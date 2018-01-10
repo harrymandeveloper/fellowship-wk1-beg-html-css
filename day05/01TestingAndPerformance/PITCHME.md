@@ -20,6 +20,34 @@
 
 ---
 
+## Aside: Browser support
+
+---
+
+### Loads of different browsers out there
+
+- Loads of different CSS & HTML specs (& JavaScript too!)
+- Things may not be supported
+- Things may render differently
+- Things may be old
+- Things may be new
+
+---
+
+### Can I use?
+
+[caniuse.com](www.caniuse.com)
+
+---
+
+### What if I want to use something new & support old browsers?
+
+- Polyfills
+- `@supports`
+- Have your website work without it
+
+---
+
 ### Validate your code
 
 - HTML [https://validator.w3.org/](https://validator.w3.org/)
