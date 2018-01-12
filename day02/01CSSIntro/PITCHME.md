@@ -17,6 +17,12 @@ our page
 
 ---
 
+### About 438 properties & counting
+
+Maintained list here: [https://meiert.com/en/indices/css-properties/](https://meiert.com/en/indices/css-properties/)
+
+---
+
 Give these properties a value
 
 ---
