@@ -11,11 +11,26 @@
 	--devMeBodyFont: 'Roboto', sans-serif;
 }
 
+/* ------------------------ main partials */
+body {
+	background-color: var(--devMeDgrey);
+	color: var(--devMeWhite);
+}
+#gp-logo img {
+	display: block;
+	border: 2px solid var(--devMeGreen);
+}
+.reveal {
+	font-family: var(--devMeBodyFont);
+	color: var(--devMeWhite);
+}
+
 /* ------------------------ typography */
 .reveal h1,
 .reveal h2,
 .reveal h3 {
 	font-family: var(--devMeDecoFont);
+	color: var(--devMeGreen);
 }
 
 
