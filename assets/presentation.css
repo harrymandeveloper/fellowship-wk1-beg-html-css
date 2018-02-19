@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Cousine|Roboto');
+
+:root {
+	--devMeGreen: #00e6b8;
+	--devMeLgrey: #999;
+	--devMeDgrey: #4d4d4d;
+	--devMeWhite: #fefefe;
+	--devMeBlack: #111;
+
+	--devMeDecoFont: 'Cousine', monospace;
+	--devMeBodyFont: 'Roboto', sans-serif;
+}
+
+/* ------------------------ typography */
+.reveal h1,
+.reveal h2,
+.reveal h3 {
+	font-family: var(--devMeDecoFont);
+}
+
+
+/*
+Due to the nature of how pitchme works I have written it in plain ol CSS - however it is new shiny css - e.g. I use imports and custom vars. It will no doubtonly work in Chrome
+
+However it would be easy to replace custom vars with sass
+
+I have imported the fonts directly into the stylesheet via google fonts. This doesn't give you much control over font loading I'm afraid.
+*/
