@@ -32,12 +32,36 @@ body {
 .reveal h3 {
 	font-family: var(--devMeDecoFont);
 	color: var(--devMeGreen);
+	line-height: 1.3;
+}
+
+.reveal h2,
+.reveal h3 {
+	text-transform: capitalize;
+	letter-spacing: -0.5px;
+}
+
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+	font-family: var(--devMeBodyFont);
+	color: var(--devMeGreen);
 }
 
 .reveal p,
 .reveal li {
 	line-height: 1.6; letter-spacing: 0.5px;
 }
+
+.reveal ul ul {
+	list-style-type: circle;
+}
+
+.reveal a {
+	color: --var(devMeGreen);
+	text-decoration: underline;
+}
+.reveal a:hover {text-decoration: none;}
 
 
 /*
