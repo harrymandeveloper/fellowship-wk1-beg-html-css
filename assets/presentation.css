@@ -15,6 +15,7 @@
 body {
 	background-color: var(--devMeDgrey);
 	color: var(--devMeWhite);
+	line-height: 1.6;
 }
 #gp-logo img {
 	display: block;
@@ -33,6 +34,10 @@ body {
 	color: var(--devMeGreen);
 }
 
+.reveal p,
+.reveal li {
+	line-height: 1.6; letter-spacing: 0.5px;
+}
 
 
 /*
