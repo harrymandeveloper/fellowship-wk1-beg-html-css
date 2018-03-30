@@ -16,12 +16,8 @@
 	overflow: auto;
 }
 .header-main h1 {
-	width: 48%; float: left;
 }
 .header-main ul {
-	padding: 0px;
-	list-style: none;
-	float:right;
 }
 .header-main li {
 	margin-right: 10px; padding: 10px;

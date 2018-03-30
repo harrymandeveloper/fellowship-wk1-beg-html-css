@@ -31,19 +31,28 @@
 
 ## A closer look
 
-`<html lang="en">`
+```html
+<html lang="en">
+```
 
 - open angle bracket |
 - element |
 - attribute |
 - double quotes |
 - param |
+
+---
+
 - close quotes |
 - more attributes? |
 - close angle bracket |
 - content |
 
 ---
+
+```html
+<p class="article" id="about-me">Some amazing things here</p>
+```
 
 - open angle bracket |
 - forward slash |
@@ -52,21 +61,19 @@
 
 ---
 
-## Again
-
-`<body class="anything">`
-
----
-
 ## Your turn
 
-`<a href="http://www.google.com">Google</a>`
+```html
+<a href="http://www.google.com">Google</a>
+```
 
 ---
 
 ## And again
 
-`<input type="text" name="firstname" />`
+```html
+<input type="text" name="firstname" />
+```
 
 ---
 
@@ -122,7 +129,7 @@ div: generic container for flow content. It has no effect on the content or layo
 - `<p>`
 - `<ul>`,`<ol>`,`<dl>`
 - `<a>` needs `href` attr
-- `<blockquote>`, `<q>` should have a `cite` attr
+- `<blockquote>`, should have a `cite` attr, `<q>`, `<cite>`
 - `<details`, `<summary>`
 - `<img>` needs a `src` *and* an `alt` attr
 - `<button>`

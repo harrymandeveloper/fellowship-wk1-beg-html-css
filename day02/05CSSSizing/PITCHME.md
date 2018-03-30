@@ -16,7 +16,7 @@ Screens work in pixels: 1px = 1 screen pixel
 (Not quite with retina screens but workaround)
 
 ```
-`margin: 10px;`
+margin: 10px;
 ```
 
 ABSOLUTE / FIXED
@@ -29,7 +29,7 @@ Percentage of container
 NB always a width, maybe not height as height is set by content
 
 ```
-`div {width: 50%;}`
+div {width: 50%;}
 ```
 
 RESPONDS
@@ -67,7 +67,7 @@ p a {font-size: 1.2rem;}
 - 1vmax = 1vw or 1vh, whichever is larger
 
 ```
-`section {height: 100vh;}`
+section {height: 100vh;}
 ```
 
 RESPONDS

@@ -93,16 +93,22 @@ p {
 
 ---
 
-### `background` is shorthand
+### There's lots!
 
 ```css
-background: transparent url('myimage.png') no-repeat top left;
-
 background-color: transparent;
 background-image: url('myimage.png');
 background-repeat: no-repeat;
 background-position: top left;
 ```
+---
+### `background` is shorthand
+
+```css
+background: transparent url('myimage.png') no-repeat top left;
+```
+
+This is common - lot's of properties have shorthand
 
 ---
 

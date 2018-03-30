@@ -34,7 +34,7 @@ I'm sure you seen 'mobile' sites - this is adaptive. We'll be looking into respo
 
 ---
 
-<video src="day02/04responsive/guardian.mp4"></video>
+<video src="https://github.com/develop-me/fellowship-wk1-beg-html-css/blob/master/day02/04responsive/guardian.mp4"></video>
 
 ---
 
@@ -105,15 +105,19 @@ Different types of media, like print
 
 Can add class to body with JavaScript:
 
-`<body class=“touchscreen tablet windows8 w1024”>`
+```
+<body class=“touchscreen tablet windows8 w1024”>
+```
 ---
 
 ### Can even detect orientation
 
-`<body class=“dim-short-600 dim-long-1024 portrait”>`
-
-`<body class=“dim-short-600 dim-long-1024 landscape”>`
-
+```
+<body class=“dim-short-600 dim-long-1024 portrait”>
+```
+```
+<body class=“dim-short-600 dim-long-1024 landscape”>
+```
 https://modernizr.com/
 
 ---

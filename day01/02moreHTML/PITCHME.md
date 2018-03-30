@@ -18,6 +18,7 @@
 - `<picture>`
 - `<source>`
 - `<figure>`, `<figcaption>`
+- `<canvas>`
 
 ---
 

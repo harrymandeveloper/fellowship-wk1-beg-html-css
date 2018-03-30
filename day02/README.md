@@ -28,7 +28,7 @@
 
 #### Presentation
 
-[The presentation can be found here](https://gitpitch.com/develop-me/fellowship-wk1-beg-html-css/newSyl?p=day02/03CSSboxModel#/).
+[The presentation can be found here](https://gitpitch.com/develop-me/fellowship-wk1-beg-html-css?p=day02/03CSSboxModel#/).
 
 #### Exercises
 
@@ -41,12 +41,13 @@
 
 #### Presentation
 
-[The presentation can be found here](https://gitpitch.com/develop-me/fellowship-wk1-beg-html-css?p=day02/responsive)
+[The presentation can be found here](https://gitpitch.com/develop-me/fellowship-wk1-beg-html-css?p=day02/04responsive)
 
 #### Exercises
 
 1. > Make your page look like the mobile design
 	- [Lesson files here](04responsive/01exercise)
+2. > Add some print styles to your page
 
 ---
 
@@ -54,7 +55,7 @@
 
 #### Presentation
 
-[The presentation can be found here](https://gitpitch.com/develop-me/fellowship-wk1-beg-html-cssp=day02/05CSSSizing)
+[The presentation can be found here](https://gitpitch.com/develop-me/fellowship-wk1-beg-html-css?p=day02/05CSSSizing)
 
 ---
 

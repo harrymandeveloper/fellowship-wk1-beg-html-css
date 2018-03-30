@@ -60,3 +60,7 @@
 
 - Go over everything.
 - Use dev tools to tell me some styles tomorrow morning
+
+## MOTO
+
+- Googling is cool 🕶

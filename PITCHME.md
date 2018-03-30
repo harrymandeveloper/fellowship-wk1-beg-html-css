@@ -93,6 +93,17 @@ Now I know you all have lives, but what you put into this course you get out
 	- Code reviews |
 	- Tests & feedback |
 	- Resources (at the end of the week!) |
+
+Note:
+So you can go into a workplace at the end of this course and hold your own. Don't get me wrong, you are still going to have a bucket load to learn. I can not teach you EVERYTHING in two weeks, _but_ I will try!
+There will be a test & I am not giving you the answers before then
+I have done the exercises myself, they are all part of the resources. But you need to learn, copying and pasting what I have done is not going to help you do that.
+No one does. If anyone tells you they do, they're not really the kind of people you want to listen to.
+
+---
+
+## What you can expect from me
+
 - To teach you how to keep on learning, because you will never stop |
 - To let you know this is hard work |
 - I don't know everything about everything |
@@ -108,6 +119,10 @@ No one does. If anyone tells you they do, they're not really the kind of people 
 ## So development...
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7_LPdttKXPc" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+---
+
+# Let's do an industry overview
 
 ---
 
@@ -148,6 +163,15 @@ No one does. If anyone tells you they do, they're not really the kind of people 
 	- Project Managers |
 	- UX |
 	- Designers |
+
+Note:
+We are focusing on Front End Dev...
+
+---
+
+### Different roles
+
+-
 	- Front End Developers (Front End Designers, UI Developers) |
 	- Back End Developers |
 	- Full Stack Developers |

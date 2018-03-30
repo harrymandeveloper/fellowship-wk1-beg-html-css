@@ -143,6 +143,7 @@ CSS Transforms on CSS Tricks: [https://css-tricks.com/almanac/properties/t/trans
 ### Floats
 
 ```css
+/* you can float left, right or none */
 header h1, header nav {
 	float: left;
 }
