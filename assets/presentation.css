@@ -79,7 +79,7 @@ body {
 }
 
 /*
-Due to the nature of how pitchme works I have written it in plain ol CSS - however it is new shiny css - e.g. I use imports and custom vars. It will no doubtonly work in Chrome
+Due to the nature of how pitchme works I have written it in plain ol CSS - however it is new shiny css - e.g. I use imports and custom vars. It will no doubt only work in Chrome
 
 However it would be easy to replace custom vars with sass
 
