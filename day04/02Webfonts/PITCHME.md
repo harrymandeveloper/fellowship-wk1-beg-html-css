@@ -5,7 +5,11 @@
 ## Web Fonts
 
 - System fonts
+	- Whatever is on the users computer
 - Custom fonts
+	- Served as a file with the website
+	- or
+	- Used as a 'web font' - loaded via an external resource, like Google Fonts
 
 You’re responsible for making sure users can see custom fonts
 
@@ -13,12 +17,11 @@ You’re responsible for making sure users can see custom fonts
 
 ### You need
 
-Font files
-
-Find those fonts:
-- Ask the designer
-- Google
-- Use 'What the font'
+- Font files
+- Find those fonts:
+	- Ask the designer
+	- Google
+	- Use 'What The Font'...
 
 ---
 
@@ -27,6 +30,10 @@ Find those fonts:
 Upload an image of the font
 
 [https://www.myfonts.com/WhatTheFont/](https://www.myfonts.com/WhatTheFont/)
+
+---
+
+## Serve yourself
 
 ---
 
@@ -52,13 +59,23 @@ Upload an image of the font
 
 ---
 
+## Web Font
+
+---
+
+### Include the given link
+
+```html
+<link href="https://fonts.googleapis.com/css?family=Gotham" rel="stylesheet">
+```
+
 ### And then use it as per
 
 ```css
 h1 { font-family: 'Gotham', Arial, sans-serif; }
 ```
 
-Don't forget a system backup
+> Don't forget a system backup
 
 ---
 
@@ -80,6 +97,14 @@ h1 {font-family: 'Gotham', Helvetica, Arial, sans-serif;}
 
 [https://css-tricks.com/fout-foit-foft/](https://css-tricks.com/fout-foit-foft/)
 
+[https://css-tricks.com/snippets/css/system-font-stack/](https://css-tricks.com/snippets/css/system-font-stack/)
+
+---
+
+## To serve or not to serve
+
+> What is a CDN?
+
 ---
 
 ## Styling
@@ -99,6 +124,7 @@ p {
 
 	text-decoration: underline;
 	text-transform: uppercase;
+	text-shadow: 1px 1px 1px black;
 
 	text-align: right;
 	justify-content: justify;

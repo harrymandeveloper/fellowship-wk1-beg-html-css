@@ -1,4 +1,4 @@
-# CSS Testing and Performance
+# CSS Testing & Performance
 ---
 
 ## Testing your code
@@ -27,10 +27,10 @@
 ### Loads of different browsers out there
 
 - Loads of different CSS & HTML specs (& JavaScript too!)
-- Things may not be supported
-- Things may render differently
-- Things may be old
-- Things may be new
+- Things may not be supported |
+- Things may render differently |
+- Things may be old |
+- Things may be new |
 
 ---
 
@@ -45,6 +45,14 @@
 - Polyfills
 - `@supports`
 - Have your website work without it
+
+---
+
+### Remember Modernizr
+
+[https://modernizr.com/](https://modernizr.com/)
+
+Detect features, add classes, harness this to add support/polyfills
 
 ---
 
@@ -98,7 +106,11 @@ Thus it needs to be downloaded
 
 ### How
 
-Write good *concise* DRY code
+- Write good *concise* DRY code
+- Asset management
+	- Compress images
+	- Lazy loading
+- First paint
 
 Note: There are many many techniques to do with performance - you will learn a lot more of this over your career, but suffice to say start with good clean code
 
