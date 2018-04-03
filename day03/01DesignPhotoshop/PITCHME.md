@@ -31,26 +31,31 @@
 
 > Lots of designs
 
-- Home
-- Standard page: About
-- Contact page
-- Article list page: news
-- Individual article page
+- Home |
+- Standard page: About |
+- Contact page |
+- Article list page: news |
+- Individual article page |
 
 ---
 
 ### Different program files
 
 - Photoshop (PSD)
-		Will have layers to turn on and off access different elements separately.
+
+> Will have layers to turn on and off access different elements separately.
+
 - InDesign (INDD)
-		Vector files, layers, copy text, fonts. May include source images (links).
+
+>Vector files, layers, copy text, fonts. May include source images (links).
+
 - Sketch (not Adobe, mac only)
-		Super good at website & app. Vector based.
+
+>Super good at website & app. Vector based.
 
 ---
 
-### Flat files ok...
+### Flat (image) files ok...
 
 - PDFs
 	Good, vector-based, usually not lossy compression, often can copy text.
@@ -58,6 +63,8 @@
 	Lossless.
 - JPGs
 	Lossy compression, difficult to get clean image from. Potentially different ‘colourspace’.
+
+> We'll take about image formats later
 
 ---
 
@@ -114,7 +121,11 @@ Use of CMYK images on web can display weirdly Design files can often be set to C
 
 - svg
 
-Scalable (and actually code!)
+> Scalable (and actually code!)
+
+- fonts
+- Adobe Illustrator
+- Figma [www.figma.com](www.figma.com) (and more...)
 
 ---
 

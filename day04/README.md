@@ -20,7 +20,7 @@
 
 #### Presentation
 
-[The presentation can be found here](https://gitpitch.com/develop-me/fellowship-wk1-beg-html-css?p=day02/02CSSColours).
+[The presentation can be found here](https://gitpitch.com/develop-me/fellowship-wk1-beg-html-css?p=day04/02Webfonts).
 
 ---
 

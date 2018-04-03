@@ -8,12 +8,15 @@
 
 ### Planning
 
-Consistency, design patterns
-
+- Consistency, design patterns
 - Content first
 - What elements are reused, where?
 - Do containers have consistent padding or margin?
 - Fixed size? What if element’s contents overflow?
+
+---
+
+> I am not looking for a pixel perfect design, I am looking for a responsive design, that resizes well
 
 ---
 
@@ -29,11 +32,13 @@ Layout early, test it
 
 ### Naming things
 
-I want to see some classes
-
 - What am I targeting?
 - Do I want to target all of them on the whole site, or just for this particular use case?
 - ...as that will inform how you target an element to change its styling
+
+---
+
+> I want to see classes being used
 
 ---
 
@@ -57,6 +62,10 @@ Fonts, colours, bullet point styles, link hover state, forms
 /* 3) Specific */
 Page/content specific, e.g. this one button
 ```
+---
+
+> Don't worry it's going to get messy, we'll talk more about file structure and order with next weeks project
+
 ---
 
 ### Browsers add styles

@@ -47,7 +47,9 @@
 ## Keyboard shortcut of the day
 
 **CMD-C / CTRL-C on line nothing selected** : Copy line
+
 **CMD-V / CTRL-V on line nothing selected** : Paste line
+
 **CMD-X / CTRL-X on line nothing selected** : Cut line
 
 ## Talk of the day
@@ -57,6 +59,7 @@
 ## Homework
 
 [Flexbox Froggy](http://flexboxfroggy.com/)
+[Flexbox Defense](http://www.flexboxdefense.com/)
 
 
 
