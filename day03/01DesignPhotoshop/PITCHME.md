@@ -18,18 +18,18 @@
 
 ### Design handover
 
-- Artwork file
-- Responsive designs
-- Fonts
-- Other assets (images, icons) - can export from artwork yourself
-- Media (videos, audio)
-- Animations, interactivity (hovers)
+- Artwork file |
+- Responsive designs |
+- Fonts |
+- Other assets (images, icons) - can export from artwork yourself |
+- Media (videos, audio) |
+- Animations, interactivity (hovers) |
 
 ---
 
 ### What to expect
 
-Lots of designs
+> Lots of designs
 
 - Home
 - Standard page: About
