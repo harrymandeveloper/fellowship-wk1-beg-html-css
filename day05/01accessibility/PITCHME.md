@@ -43,19 +43,34 @@
 - Cluttered/busy/animated pages
 - Lots of text (20ish words per line)
 - Font size
+
+---
+
+- Not just using colour as feedback
 - Colour contrast
 - Zoomable
 - Images of text
 
 ---
 
-### Aria roles
+### Aria attributes
 
 In case you use elements that aren't for what they're suppose to be for
 
 For when you want to give users more information about those elements & modules
 
 [https://www.w3.org/TR/html-aria/](https://www.w3.org/TR/html-aria/)
+
+---
+
+### Screen readers use aria
+
+```html
+<span id="submit-label" hidden>Submit</span>
+<button type="submit" aria-labelledby="submit-label">→</button>
+```
+
+http://www.heydonworks.com/article/aria-label-is-a-xenophobe
 
 
 
