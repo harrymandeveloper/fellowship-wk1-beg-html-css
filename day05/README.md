@@ -3,17 +3,25 @@
 
 ---
 
+### Accessibility
+
+#### Presentation
+
+[The presentation can be found here](https://gitpitch.com/develop-me/fellowship-wk1-beg-html-css?p=day05/01accessibility).
+
+---
+
 ### Testing and performance
 
 #### Presentation
 
-[The presentation can be found here](https://gitpitch.com/develop-me/fellowship-wk1-beg-html-css?p=day05/01TestingAndPerformance).
+[The presentation can be found here](https://gitpitch.com/develop-me/fellowship-wk1-beg-html-css?p=day05/02TestingAndPerformance).
 
 #### Exercises
 
 1. > Upload your files to ftp
 2. > Test your site
-	- [The links are here](https://github.com/develop-me/fellowship-wk1-beg-html-css/blob/master/day05/01TestingAndPerformance/README.md)
+	- [The links are here](https://github.com/develop-me/fellowship-wk1-beg-html-css/blob/master/day05/02TestingAndPerformance/README.md)
 
 ---
 
