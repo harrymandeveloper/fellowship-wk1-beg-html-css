@@ -1,6 +1,9 @@
 /*Make sure you concentrate on order*/
 
 body {
+  font-family: 'Arial', sans-serif;
+  font-size: 100%;
+  line-height: 1;
 }
 
 .container {
@@ -10,37 +13,41 @@ body {
 }
 
 /* main partials */
-.header-main, section, footer {
+header, section, footer {
   padding: 40px;
 }
 
-/*section header {
+section header {
   padding:0px;
-}*/
+}
 
 .header-main {
   background-color: blue;
   background-image: linear-gradient(0deg, green, lightgreen);
-  padding: 60px 40px;
-  overflow: auto;
+
+  overflow:auto; position: relative;
 }
 
 .header-main h1, .header-main nav {
-
+  width:50%;
+  box-sizing: border-box;
 }
 
 .header-main h1 {
+  float:left;
   color:white;
   font-size: 2.8em;
-  float: left;
 }
 .header-main nav {
-  float: right;
+  display: block;
+  float:right;
+  text-align: right;
 }
 
 .header-main nav a {
+  margin:10px; padding:10px;
   display: inline-block;
-  padding:20px 30px;
+  color:white;
 }
 
 .header-main nav a.selected,
@@ -66,20 +73,16 @@ p {
   margin-bottom: 20px;
 }
 
-.button, .selected {
+.button {
   display: inline-block;
   padding:20px 30px;
+
 
   background-color: green;
   background-image: linear-gradient(0deg, hsla(0,0%,100%,0.3), hsla(0,0%,100%,0.8));
   border-radius: 8px;
 
   font-size: 1.4em;
-}
-
-a.button, nav a {
-  text-decoration: none;
-  color: white;
 }
 
 /* specifics */
@@ -104,52 +107,42 @@ a.button, nav a {
 .section-contact form {
   border:1px solid orange;
   overflow: auto;
+  display: flex;
 }
 .section-contact form div {
-  border: 1px solid blue;
-  width: 48%;
+  width:50%;
   box-sizing: border-box;
-  float: left;
-  margin-right:2%;
+  border:1px solid white;
+  overflow: auto;
 }
-.section-contact form div:nth-of-type(2) {
-  margin-right:0px;
-  margin-left:2%;
-}
-
 .section-contact form label,
 .section-contact form input,
 .section-contact form textarea {
   display: block;
-  font-size: 100%;
 }
 
 .section-contact form label {
-  color: white;
-  margin-bottom: 10px;
+  margin-bottom:10px;
+  color:white;
 }
 
 .section-contact form input,
 .section-contact form textarea {
+  padding: 10px;
   width: 100%;
   box-sizing: border-box;
-  padding: 10px;
-  margin-bottom: 20px;
-  border: none;
-  border-radius: 6px;
-}
 
-.section-contact form textarea {
-  height: 20vw;
 }
 
 .section-contact form .button {
-  width: 40%;
-  float: right;
+  background-color: darkblue;
+  width:30%; float:right;
 }
 
 .footer-main {text-align: center;}
-.footer-main p {}
+.footer-main p {
+
+}
 
 @media only screen and (max-width:600px) {
 

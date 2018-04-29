@@ -10,6 +10,7 @@
 
 <section class="form-example">
 
+
   <!-- where to go | GET or POST -->
   <form action="" method="">
 
@@ -17,13 +18,40 @@
       <legend>Text Inputs</legend>
 
       <label for="intext">Firstname</label>
-      <input type="text" name="firstname" id="intext" value="Ruth" />
+      <input type="text" name="firstname" id="intext" />
+
+      <label for="lasttext">Last name</label>
+      <input type="text" name="lastname" id="lasttext" />
+
+      <label for="">Email</label>
+      <input type="email" name="" />
+
+      <label for="">Phone</label>
+      <input type="tel" name="" />
+
+      <label for="">Password</label>
+      <input type="password" name="" />
+
+      <label for="">Number</label>
+      <input type="number" name="" />
+
+      <label for="">Url</label>
+      <input type="url" name="" />
 
     </fieldset>
 
     <fieldset>
       <legend>Not written as input</legend>
 
+      <label for="dd"></label>
+      <select id="dd" name="cooloptions">
+        <option>opt one</option>
+        <option>opt two</option>
+        <option>opt three</option>
+      </select>
+
+      <label for="mess">Message</label>
+      <textarea id="mess" name="ourmessage"></textarea>
 
     </fieldset>
 
@@ -90,6 +118,10 @@
       <input type="reset" name="" />
 
     </fieldset>
+
+    <input type="submit" value="post form" />
+
+    <button type="submit">post form</button>
 
 
   </form>

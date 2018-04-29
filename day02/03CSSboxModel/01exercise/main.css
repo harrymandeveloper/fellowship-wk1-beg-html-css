@@ -1,18 +1,49 @@
 .wrapper {
 }
 
+.header-main, article, section {
+}
+
 .header-main, section {
+}
+
+span {
+}
+
+header {
+}
+
+nav {
+}
+
+section {
+}
+
+section .button {
+}
+
+img {
 }
 
 .header-main {
 }
+
+ul {
+}
+
+li {
+}
+
+article {
+}
+
 
 .header-main nav ul {
 }
 .header-main nav li {
 }
 
-footer {
+footer p {
 }
 
 img {
@@ -20,3 +51,4 @@ img {
 
 .button {
 }
+
