@@ -96,16 +96,20 @@ p {
 ### There's lots!
 
 ```css
-background-color: transparent;
-background-image: url('myimage.png');
-background-repeat: no-repeat;
-background-position: top left;
+.myClass {
+	background-color: transparent;
+	background-image: url('myimage.png');
+	background-repeat: no-repeat;
+	background-position: top left;
+}
 ```
 ---
 ### `background` is shorthand
 
 ```css
-background: transparent url('myimage.png') no-repeat top left;
+.myClass {
+	background: transparent url('myimage.png') no-repeat top left;
+}
 ```
 
 This is common - lot's of properties have shorthand

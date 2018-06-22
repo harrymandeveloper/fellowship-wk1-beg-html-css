@@ -63,6 +63,8 @@ Inline, then block, gaps, no gaps.
 
 ---
 
+### Let's try these properties (codepen?)
+
 - `padding`
 - `margin`
 - `width`
@@ -90,6 +92,13 @@ Show some padding on the header and box-sizing
 - Check date
 - Don't believe w3schools
 - Use Stack Overflow with caution
+
+---
+
+### Aside: Let's look at MDN
+
+- Probably the most dependable learning resource
+- [https://developer.mozilla.org/en-US/](https://developer.mozilla.org/en-US/)
 
 ---
 

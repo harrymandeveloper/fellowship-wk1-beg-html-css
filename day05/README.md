@@ -37,5 +37,6 @@
 
 ## Homework
 
-Go over the week
+- Take some time to go over the week
+- What is the difference between an API, a Framework and a Library
 

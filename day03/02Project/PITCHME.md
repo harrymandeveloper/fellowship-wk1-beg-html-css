@@ -118,6 +118,7 @@ form {
 	- indenting
 	- spacing
 - keep CSS structured/organised
+- USE DEVTOOLS!!
 
 ---
 
@@ -128,10 +129,21 @@ form {
 - pick a style and stick to it
 - new-january-newsletter-logo.jpg
 
+---
 
+### Something like
 
+- index.html
+- styles
+	- reset.css
+	- style.css
+- fonts
+	- font files here
+- images
+	- myimage.jpg
+- scripts
+ 	- javascript would go here
 
-
-
+---
 
 

@@ -5,7 +5,7 @@
 
 ---
 
-![Lots and lots of devices](day05/01TestingAndPerformance/devices.png)
+![Lots and lots of devices](day05/02TestingAndPerformance/devices.png)
 
 ---
 
@@ -69,9 +69,10 @@ Detect features, add classes, harness this to add support/polyfills
 
 ---
 
-### Page speed
+### Devtools Audit
 
-- Google's pagespeed tool [https://developers.google.com/speed/pagespeed/insights/](https://developers.google.com/speed/pagespeed/insights/)
+- Google Lighthouse
+	- Devtools (it's open already right 🤓) Go to `Audits` tab
 
 ---
 
@@ -122,11 +123,11 @@ Note: There are many many techniques to do with performance - you will learn a l
 
 ### Real life testing
 
-![App design](day05/01TestingAndPerformance/app.png)
+![App design](day05/02TestingAndPerformance/app.png)
 
 ---
 
-![App on tablet](day05/01TestingAndPerformance/appTab.png)
+![App on tablet](day05/02TestingAndPerformance/appTab.png)
 
 ---
 
