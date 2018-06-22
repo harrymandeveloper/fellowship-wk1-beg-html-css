@@ -43,8 +43,12 @@ Wash up after yourself. Be mindful there are 15 people using one bathroom. There
 
 - To have done your prep |
 - To be familiar with your computer |
+- To take notes |
 - To know your folders & files and... |
-- NEVER PUT A SPACE IN A FILE OR FOLDER NAME |
+
+---
+
+- Never put a space in a file or folder name |
 - NEVER USE SPACES WHEN NAMING ANYTHING EVER |
 
 Note:
@@ -62,6 +66,9 @@ Every computer is different. I don't know where you keep your files, please don'
 	- [Slack](https://slack.com/download) |
 	- Terminal or Bash |
 	- Chrome cast |
+
+---
+
 - AND you have a basic understanding of how to use them. |
 
 ---
@@ -77,6 +84,7 @@ Every computer is different. I don't know where you keep your files, please don'
 ## What I expect from you
 
 - To not be able to do everything |
+- But I do expect you to try |
 - Not to finish everything |
 - There is homework |
 
@@ -171,12 +179,11 @@ We are focusing on Front End Dev...
 
 ### Different roles
 
--
-	- Front End Developers (Front End Designers, UI Developers) |
-	- Back End Developers |
-	- Full Stack Developers |
-	- System Administrators |
-	- Various others: Clients, admin staff, investors |
+- Front End Developers (Front End Designers, UI Developers) |
+- Back End Developers |
+- Full Stack Developers |
+- System Administrators |
+- Various others: Clients, admin staff, investors |
 
 Note:
 We are focusing on Front End Dev...

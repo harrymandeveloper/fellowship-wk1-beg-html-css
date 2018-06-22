@@ -58,7 +58,6 @@ Character set of file - different types
 <!-- Place favicon.ico in the root directory -->
 <!--Website icons-->
 
-
 <link rel="stylesheet" href="css/main.css">
 <!--External files - this one is css-->
 

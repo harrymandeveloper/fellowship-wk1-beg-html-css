@@ -130,6 +130,8 @@ div: generic container for flow content. It has no effect on the content or layo
 - `<ul>`,`<ol>`,`<dl>`
 - `<a>` needs `href` attr
 - `<blockquote>`, should have a `cite` attr, `<q>`, `<cite>`
+---
+
 - `<details`, `<summary>`
 - `<img>` needs a `src` *and* an `alt` attr
 - `<button>`
