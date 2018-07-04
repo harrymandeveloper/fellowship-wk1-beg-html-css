@@ -49,6 +49,12 @@
 
 >Vector files, layers, copy text, fonts. May include source images (links).
 
+---
+
+- Possibly Illustrator
+
+>Also vector
+
 - Sketch (not Adobe, mac only)
 
 >Super good at website & app. Vector based.
@@ -95,6 +101,7 @@ Use of CMYK images on web can display weirdly Design files can often be set to C
 
 - Layers |
 - Eyedropper |
+- Curve |
 - Marquee |
 - Create new image from part of design |
 

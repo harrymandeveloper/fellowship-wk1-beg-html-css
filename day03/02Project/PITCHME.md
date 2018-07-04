@@ -8,11 +8,11 @@
 
 ### Planning
 
-- Consistency, design patterns
+- Consistency: What is repeated?
 - Content first
 - What elements are reused, where?
 - Do containers have consistent padding or margin?
-- Fixed size? What if element’s contents overflow?
+- Fixed size? Responsive design... what if content changed?
 
 ---
 
@@ -90,6 +90,10 @@ Start clean - add reset.css
 - Download it
 - Set it as first stylesheet
 - Then pull in your stylesheet
+
+---
+
+## Demo: Codepen
 
 ---
 
