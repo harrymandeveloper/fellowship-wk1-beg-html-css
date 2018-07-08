@@ -26,9 +26,9 @@
 
 ---
 
-### Page speed
+### Audit
 
-- Google's pagespeed tool [https://developers.google.com/speed/pagespeed/insights/](https://developers.google.com/speed/pagespeed/insights/)
+- Check your website via the audit tool in devtools
 
 ---
 

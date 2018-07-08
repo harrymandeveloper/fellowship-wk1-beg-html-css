@@ -1,6 +1,8 @@
 /*Make sure you concentrate on order*/
 
 body {
+  font-family: sans-serif;
+  color: #333;
 }
 
 .container {
@@ -13,10 +15,6 @@ body {
 .header-main, section, footer {
   padding: 40px;
 }
-
-/*section header {
-  padding:0px;
-}*/
 
 .header-main {
   background-color: blue;
@@ -94,6 +92,19 @@ a.button, nav a {
   position: relative;
 }
 
+.thumbnails {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:space-between;
+  padding: 0px;
+}
+.thumbnails img {
+  width: 21%;
+  height: 21%;
+  margin-bottom: 3%;
+
+}
+
 .section-gallery .button {
   position: absolute; right:3%; top:3%;
   }
@@ -102,15 +113,12 @@ a.button, nav a {
 .section-contact p {color:white;}
 
 .section-contact form {
-  border:1px solid orange;
   overflow: auto;
 }
 .section-contact form div {
-  border: 1px solid blue;
   width: 48%;
-  box-sizing: border-box;
   float: left;
-  margin-right:2%;
+  margin-right: 2%;
 }
 .section-contact form div:nth-of-type(2) {
   margin-right:0px;
@@ -132,19 +140,18 @@ a.button, nav a {
 .section-contact form input,
 .section-contact form textarea {
   width: 100%;
-  box-sizing: border-box;
   padding: 10px;
-  margin-bottom: 20px;
-  border: none;
-  border-radius: 6px;
+  box-sizing: border-box;
+  border:none;
+  margin-bottom: 10px;
 }
 
 .section-contact form textarea {
-  height: 20vw;
+  height: 10vw;
 }
 
 .section-contact form .button {
-  width: 40%;
+  width: 48%;
   float: right;
 }
 
@@ -172,6 +179,10 @@ a.button, nav a {
     float: right;
     width: 50px; height: 50px;
     border: 1px solid white;
+  }
+
+  .section-gallery img {
+    width: 48%;
   }
 
   .section-gallery img:nth-of-type(1n+5) {
