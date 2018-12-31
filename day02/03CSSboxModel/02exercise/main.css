@@ -13,9 +13,13 @@
 }
 .header-main {
 	border-bottom: 2px solid grey;
-	overflow: auto;
+	/*overflow: auto;*/
 }
 .header-main h1 {
+	float: left;
+}
+.header-main nav {
+	float: right;
 }
 .header-main ul {
 }

@@ -1,0 +1,41 @@
+body {
+	background-color: white;
+	font-size: 120%;
+	font-family: sans-serif;
+}
+
+nav ul {
+	background-color: pink;
+	padding: 0px;
+	display: flow-root;
+	overflow: auto;
+}
+
+nav ul li {
+	float:left;
+}
+
+header nav li a {
+	text-decoration: none;
+	background-image: linear-gradient(0deg, hsla(150, 80%, 60%, 1), hsla(150, 80%, 70%, 1));
+	border: 1px solid hsla(150, 80%, 50%, 1);
+	border-radius: 2px;
+	color: white;
+	padding: 16px; margin: 5px;
+	box-shadow: 2px 2px 0px black;
+	display: inline-block;
+}
+
+header nav li a:hover {
+	/*text-decoration: underline;*/
+	box-shadow: 1px 1px 0px 0px black;
+}
+
+button {
+	padding: 0px; margin: 0px;
+	border: none; background: none;
+	font-size: 120%;
+	color: blue;
+	text-decoration: underline;
+	position: fixed; top:10px;
+}
