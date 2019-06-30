@@ -2,48 +2,45 @@
 
 body {
   font-family: sans-serif;
-  color: #333;
+  color: #666;
 }
 
 .container {
   max-width: 1100px;
   margin: 0px auto;
-  box-shadow: 0px 0px 10px 0px hsla(0,0%,0%, 0.5);
+  box-shadow: 2px 0px 4px 0px grey;
 }
 
 /* main partials */
 .header-main, section, footer {
-  padding: 40px;
+  padding: 50px;
 }
 
 .header-main {
-  background-color: blue;
+  background-color: green;
   background-image: linear-gradient(0deg, green, lightgreen);
-  padding: 60px 40px;
+  /*padding: 60px 40px;*/
   overflow: auto;
 }
 
-.header-main h1, .header-main nav {
-
-}
+.header-main h1, .header-main nav {}
 
 .header-main h1 {
-  color:white;
-  font-size: 2.8em;
+  font-size: 2.6em; color:white;
   float: left;
 }
+
 .header-main nav {
-  float: right;
+  float:right;
 }
 
 .header-main nav a {
-  display: inline-block;
-  padding:20px 30px;
+  padding: 20px 30px;
 }
 
 .header-main nav a.selected,
 .header-main nav a:hover {
-  background-color: darkblue;
+  background-color: blue;
 }
 
 .header-main button {
@@ -53,26 +50,23 @@ body {
 /* generics */
 
 h2 {
-  font-size: 2em;
-  color: white;
+  font-size: 2em; color: white;
   margin-bottom: 30px;
 }
 
 p {
-  line-height: 1.6;
-  color: grey;
+  font-size: 1.2em;
+  line-height: 1.3;
   margin-bottom: 20px;
 }
 
-.button, .selected {
+.button, .selected, nav a:hover {
   display: inline-block;
-  padding:20px 30px;
+  padding: 20px 30px;
 
   background-color: green;
   background-image: linear-gradient(0deg, hsla(0,0%,100%,0.3), hsla(0,0%,100%,0.8));
   border-radius: 8px;
-
-  font-size: 1.4em;
 }
 
 a.button, nav a {
@@ -83,9 +77,11 @@ a.button, nav a {
 /* specifics */
 
 .section-about {}
-.section-about h2 { color: grey; }
-.section-about p { width: 62%; }
-.section-about p.link-more { text-align: right; }
+.section-about h2 {
+  color: #666;
+}
+.section-about p {width: 62%;}
+.section-about p.link-more {text-align: right;}
 
 .section-gallery {
   background-color: grey;
@@ -106,8 +102,12 @@ a.button, nav a {
 }
 
 .section-gallery .button {
-  position: absolute; right:3%; top:3%;
-  }
+  position: absolute; right:4%; top:4%;
+}
+
+
+
+/*===========================================*/
 
 .section-contact {background-color: lightgreen;}
 .section-contact p {color:white;}
@@ -116,7 +116,8 @@ a.button, nav a {
   overflow: auto;
 }
 .section-contact form div {
-  width: 48%; float: left;
+  width: 48%;
+  float: left;
   margin-right: 2%;
 }
 .section-contact form div:nth-of-type(2) {
@@ -127,26 +128,30 @@ a.button, nav a {
 .section-contact form label,
 .section-contact form input,
 .section-contact form textarea {
-  display: block; font-size: 100%;
+  display: block;
+  font-size: 100%;
 }
 
 .section-contact form label {
-  color: white; margin-bottom: 10px;
+  color: white;
+  margin-bottom: 10px;
 }
 
 .section-contact form input,
 .section-contact form textarea {
-  width: 100%; margin-bottom: 10px;
-  padding: 8px; border: none;
+  width: 100%;
+  margin-bottom: 20px;
+  padding: 6px;
   box-sizing: border-box;
 }
 
 .section-contact form textarea {
-  height:10vw;
+  height: 14vh;
 }
 
 .section-contact form .button {
-  width: 50%; float:right;
+  float: right;
+  width: 30%;
 }
 
 .footer-main {text-align: center;}

@@ -1,9 +1,8 @@
 /*Make sure you concentrate on order*/
 
 body {
-  font-family: 'Arial', sans-serif;
-  font-size: 100%;
-  line-height: 1;
+  font-family: sans-serif;
+  color: #333;
 }
 
 .container {
@@ -13,41 +12,33 @@ body {
 }
 
 /* main partials */
-header, section, footer {
+.header-main, section, footer {
   padding: 40px;
-}
-
-section header {
-  padding:0px;
 }
 
 .header-main {
   background-color: blue;
   background-image: linear-gradient(0deg, green, lightgreen);
-
-  overflow:auto; position: relative;
+  padding: 60px 40px;
+  overflow: auto;
 }
 
 .header-main h1, .header-main nav {
-  width:50%;
-  box-sizing: border-box;
+
 }
 
 .header-main h1 {
-  float:left;
   color:white;
   font-size: 2.8em;
+  float: left;
 }
 .header-main nav {
-  display: block;
-  float:right;
-  text-align: right;
+  float: right;
 }
 
 .header-main nav a {
-  margin:10px; padding:10px;
   display: inline-block;
-  color:white;
+  padding:20px 30px;
 }
 
 .header-main nav a.selected,
@@ -73,16 +64,20 @@ p {
   margin-bottom: 20px;
 }
 
-.button {
+.button, .selected {
   display: inline-block;
   padding:20px 30px;
-
 
   background-color: green;
   background-image: linear-gradient(0deg, hsla(0,0%,100%,0.3), hsla(0,0%,100%,0.8));
   border-radius: 8px;
 
   font-size: 1.4em;
+}
+
+a.button, nav a {
+  text-decoration: none;
+  color: white;
 }
 
 /* specifics */
@@ -97,6 +92,19 @@ p {
   position: relative;
 }
 
+.thumbnails {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:space-between;
+  padding: 0px;
+}
+.thumbnails img {
+  width: 21%;
+  height: 21%;
+  margin-bottom: 3%;
+
+}
+
 .section-gallery .button {
   position: absolute; right:3%; top:3%;
   }
@@ -105,44 +113,44 @@ p {
 .section-contact p {color:white;}
 
 .section-contact form {
-  border:1px solid orange;
   overflow: auto;
-  display: flex;
 }
 .section-contact form div {
-  width:50%;
-  box-sizing: border-box;
-  border:1px solid white;
-  overflow: auto;
+  width: 48%; float: left;
+  margin-right: 2%;
 }
+.section-contact form div:nth-of-type(2) {
+  margin-right: 0px;
+  margin-left: 2%;
+}
+
 .section-contact form label,
 .section-contact form input,
 .section-contact form textarea {
-  display: block;
+  display: block; font-size: 100%;
 }
 
 .section-contact form label {
-  margin-bottom:10px;
-  color:white;
+  color: white; margin-bottom: 10px;
 }
 
 .section-contact form input,
 .section-contact form textarea {
-  padding: 10px;
-  width: 100%;
+  width: 100%; margin-bottom: 10px;
+  padding: 8px; border: none;
   box-sizing: border-box;
+}
 
+.section-contact form textarea {
+  height:10vw;
 }
 
 .section-contact form .button {
-  background-color: darkblue;
-  width:30%; float:right;
+  width: 50%; float:right;
 }
 
 .footer-main {text-align: center;}
-.footer-main p {
-
-}
+.footer-main p {}
 
 @media only screen and (max-width:600px) {
 
@@ -165,6 +173,10 @@ p {
     float: right;
     width: 50px; height: 50px;
     border: 1px solid white;
+  }
+
+  .section-gallery img {
+    width: 48%;
   }
 
   .section-gallery img:nth-of-type(1n+5) {
