@@ -4,10 +4,13 @@ body {
 
 section {}
 
+header {
+}
+
 .recent-work {
   max-width:900px;
   padding:20px;
-  background-color: lightgreen;
+  /*background-color: lightgreen;*/
 }
 
 .thumbnails {
@@ -23,7 +26,7 @@ a {
 @media screen and (max-width: 700px) {
 
   /* put your styles here! */
-  img {width: 46%;}
+  /*img {width: 46%;}*/
 
 }
 

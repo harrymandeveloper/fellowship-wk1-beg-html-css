@@ -4,30 +4,40 @@
 }
 
 .header-main, article, section, footer {
-	padding: 20px;
 }
 
 /* header */
 .header-main, section {
 	background-color: lightgreen;
 }
+
 .header-main {
-	border-bottom: 2px solid grey;
-	/*overflow: auto;*/
+	padding: 30px;
+	overflow: auto;	
 }
+
 .header-main h1 {
+	width: 50%;
 	float: left;
 }
+
 .header-main nav {
 	float: right;
 }
+
 .header-main ul {
 }
+
 .header-main li {
-	margin-right: 10px; padding: 10px;
-	display: inline-block;
 	border: 1px solid grey;
+	display: inline-block;
+	padding: 10px;
+	margin: 5px;
 }
+
+
+
+
 
 /* article */
 article p {

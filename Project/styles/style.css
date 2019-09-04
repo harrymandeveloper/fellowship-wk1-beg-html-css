@@ -17,10 +17,11 @@ body {
 }
 
 .header-main {
+  overflow: auto;
+
   background-color: green;
   background-image: linear-gradient(0deg, green, lightgreen);
-  /*padding: 60px 40px;*/
-  overflow: auto;
+  padding: 60px 40px;
 }
 
 .header-main h1, .header-main nav {}
@@ -31,11 +32,12 @@ body {
 }
 
 .header-main nav {
-  float:right;
+  float: right;
 }
 
 .header-main nav a {
   padding: 20px 30px;
+  display: inline-block;
 }
 
 .header-main nav a.selected,
@@ -63,11 +65,10 @@ p {
 .button, .selected, nav a:hover {
   display: inline-block;
   padding: 20px 30px;
-
   background-color: green;
-  background-image: linear-gradient(0deg, hsla(0,0%,100%,0.3), hsla(0,0%,100%,0.8));
+  background-image: linear-gradient(0deg, hsla(0, 0%, 100%, 0.3), hsla(0, 0%, 100%, 0.8));
   border-radius: 8px;
-}
+  }
 
 a.button, nav a {
   text-decoration: none;
@@ -113,12 +114,13 @@ a.button, nav a {
 .section-contact p {color:white;}
 
 .section-contact form {
-  overflow: auto;
+  overflow: hidden;
 }
 .section-contact form div {
-  width: 48%;
   float: left;
+  width: 48%;
   margin-right: 2%;
+
 }
 .section-contact form div:nth-of-type(2) {
   margin-right: 0px;
@@ -128,8 +130,8 @@ a.button, nav a {
 .section-contact form label,
 .section-contact form input,
 .section-contact form textarea {
+  /*font-size: 100%;*/
   display: block;
-  font-size: 100%;
 }
 
 .section-contact form label {
@@ -156,6 +158,17 @@ a.button, nav a {
 
 .footer-main {text-align: center;}
 .footer-main p {}
+
+
+
+
+
+
+
+
+
+
+
 
 @media only screen and (max-width:600px) {
 
