@@ -3,7 +3,7 @@ With just a month to go before you start learning we just want to make sure you 
 You've already attended a evening to get your computer all up and running. If you haven't and even if you have please make sure you have the following installed on your machine:
 
 - Browsers: Chrome (https://www.google.com/chrome/browser/desktop/index.html) and Firefox (https://www.mozilla.org/en-US/firefox/new/)
-- Sublime Text Editor (https://www.sublimetext.com/) if you are comfortable with another code editor this is also fine.
+- VS Code Text Editor (https://code.visualstudio.com/) if you are comfortable with another code editor this is also fine.
 - Slack (https://slack.com/download) all resources, links, discussions and communications happen through Slack, so it's really really important you have it up and running at all times. We recommend the desktop app
 
 You will also need Photoshop and Balsamiq (wire framing software). Please note these trials only last a matter of days so installing them closer to the time is advised if you are not looking to purchase
