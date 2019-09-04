@@ -62,7 +62,7 @@ Every computer is different. I don't know where you keep your files, please don'
 - To have the following already installed on your computer |
 	- [Chrome](https://www.google.com/chrome/browser/desktop/index.html) |
 	- [Firefox](https://www.mozilla.org/en-US/firefox/new/) |
-	- [Sublime Text Editor](https://www.sublimetext.com/) |
+	- [VS Code Text Editor](https://code.visualstudio.com/) |
 	- [Slack](https://slack.com/download) |
 	- Terminal or Bash |
 	- Chrome cast |
@@ -204,7 +204,7 @@ We are focusing on Front End Dev...
 - We are going to nail HTML & CSS |
 - Lots of practice exercises |
 - Individually on your machine |
-- Tools: Code editor (Sublime), browser (Chrome AND Firefox), Photoshop, pen & paper |
+- Tools: Code editor (VS Code), browser (Chrome AND Firefox), Photoshop, pen & paper |
 - Project: Take a design and make it into a webpage |
 
 ---
